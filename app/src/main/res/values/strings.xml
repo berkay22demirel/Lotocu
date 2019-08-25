@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lotocu</string>
+    <string name="guess">Tahmin</string>
+    <string name="my_coupon">Kuponlarım</string>
+    <string name="results">Sonuçlar</string>
+    <string name="analysis">Analiz</string>
 </resources>
